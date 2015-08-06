@@ -14,5 +14,5 @@ All C language Accepted
 
 [Next Permutation](https://leetcode.com/problems/next-permutation/)
 
-[Search a 2D Matrix II](https://leetcode.com/submissions/detail/35444663/)
+[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 
