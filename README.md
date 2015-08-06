@@ -11,3 +11,5 @@ All C language Accepted
 [Power of Two](https://leetcode.com/problems/power-of-two/)
 
 [Path Sum](https://leetcode.com/problems/path-sum/)
+
+[Next Permutation](https://leetcode.com/problems/next-permutation/)
